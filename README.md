@@ -1,4 +1,10 @@
 # 🏥 AyurSutra – Hospital Management System
+<img width="500" height="300" alt="Screenshot 2026-05-15 003423" src="https://github.com/user-attachments/assets/e11de7a7-8107-4a3a-9e03-6be09427a1ce" />
+<img width="500" height="300" alt="Screenshot 2026-05-15 003441" src="https://github.com/user-attachments/assets/e642c561-2d3c-434b-bb9a-79d214583434" />
+<img width="500" height="300" alt="Screenshot 2026-05-15 003458" src="https://github.com/user-attachments/assets/10a9ed57-ad02-47d8-8a34-971cdd80a990" />
+<img width="500" height="300" alt="Screenshot 2026-05-15 003515" src="https://github.com/user-attachments/assets/63b5ebe4-517b-4745-964b-2578a8bb5ab9" />
+<img width="500" height="300" alt="Screenshot 2026-05-15 003525" src="https://github.com/user-attachments/assets/705a6e76-acbb-4804-8a91-85d8c4662053" />
+<img width="500" height="300" alt="Screenshot 2026-05-15 003539" src="https://github.com/user-attachments/assets/1d6a8af7-ee73-48eb-bf75-db42ac631459" />
 
 **AyurSutra** is a full-stack healthcare management platform designed to streamline hospital operations, enhance patient experience, and enable efficient coordination between doctors, patients, and administrators.
 
